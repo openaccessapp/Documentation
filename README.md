@@ -2,9 +2,22 @@
 
 ## Introduction
 
-AccessApp enables operators of Places to provide Visitors with higher quality experience by limiting the number of visitors and enabling easy booking.
+AccessApp enables easier organisation of better visitor experience, especially during time of pandemic:
 
-The App can help provide Visitors with higher quality epxerience during crowded high season. It can be used as well to enable and protect visits by vulnerable people during epidemics.
+* Places
+  * to provide Visitors with safe and easy to plan experience
+  * to provide Vulnerable Visitors with slots gentle on their vulnerability (for example slots with reduced number of visitors for weaker visitors during time of pandemic and slots with significantly reduced number of visitors for visitors with very weak immune system)
+  * easy to plan experience includes planned queueing and guaranteed visit
+* Visitors
+  * planned visits
+  * safer visits
+  * even safe visits for vulnerable
+
+AccessApp follows an open source, open governance and collaboratively funded non-proft operational model, which gives Places additional advantages such as:
+
+* No vendor lock
+* The interest of the community, the visitors and of the place are in focus
+* The collaboratively funded non-profit operational model allows even places, who cannot affort a solution or have a complex budgeting process, to have a solution in a timely manner
 
 ## How does it work?
 
