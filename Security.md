@@ -1,8 +1,6 @@
 # Security
 
-##
-
-Introduction
+## Introduction
 
 AccessApp is privacy preserving.
 
