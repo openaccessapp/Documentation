@@ -41,6 +41,10 @@ AccessApp Administrator allows the AccessApp Operator to allow Place(s).
 
 The AccessApp is Open Source and is supported by a broad community of maintainers. Aux Nederlands B. V. provides a reference implementation following a not-for-profit open-books model, which reference implementation can be commercially booked and used. Additionally anyone is welcome to download, implement and operate the App. The community of maintainers can be contracted in such cases, as can be Aux Nederland B. V. The AccessApp is actively looking for implementing and operating partners in every country and from every languages in the world. Additional maintainers are welcome at any time.
 
+## Security
+
+See [Security](Security.md).
+
 # History and Credits
 
 The idea of AccessApp was concieved by Alice Mesnard and Paul Seabright in their article https://voxeu.org/article/easing-lockdown-digital-applications-can-help.
