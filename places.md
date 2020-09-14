@@ -40,3 +40,7 @@ true focus on the needs of the places and visitors, especially of marginalised g
 ### Integration into the Total Visitory Flow Manaement incl. Marketing, Promotion, planning, hygene concept, statistics, etc.
 
 we take all the work from you which can be done externally 
+
+## PlacesApp
+
+add video how to add and manage your place and also screenshots
