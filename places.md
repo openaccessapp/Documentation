@@ -41,6 +41,10 @@ true focus on the needs of the places and visitors, especially of marginalised g
 
 we take all the work from you which can be done externally 
 
+### Cooperation w/ Existing IT Vendors
+
+The Existing IT Vendors are an integral part of the AccessApp ecosystem
+
 ## PlacesApp
 
 add video how to add and manage your place and also screenshots
