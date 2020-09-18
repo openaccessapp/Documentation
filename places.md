@@ -65,6 +65,8 @@ The Existing IT Vendors are an integral part of the AccessApp ecosystem
 
 ## PlacesApp
 
+![Splash screen](images/F0C205DF-43A2-4897-9A39-93D3DC813FF0.png)
+
 add video how to add and manage your place and also screenshots
 
 ## Case Study #1 /// Caricature Museum Frankfurt
