@@ -1,22 +1,26 @@
 # Places
 
-## What wer are?
+## What is AccessApp?
 
-we are not an app
+AccessApp is a technology based social project providing Places (museums, art galleries, universities and schools, swimming pools, beaches, everywhere, where people gather together) w/ a free and open source possibility to manage visitors without spending their fragile budgets on that or getting into a vendor lock.
 
-we are a Social Project and Platform
+AccessApp was designed as a forward looking solution in times of Covid, but also goes beyond that.
 
 ### Where do we come from
 
 ### open soruce and free for all Wikipedia for Visits
 
-## Benefits for Places and Visitors
+### Benefits for Places
 
 manage the flow of visitors
 
 guide (search and discover) to find corona compliant places, which, combined w/ the management of hte safe flow of visitors becomes a great tool
 
+### Benefits for Visitors
+
 ## Implementation Process
+
+This chapter describes the current implementation process of AccessApp at a venue. It is important to understand, that AccessApp is driven by place-centricity and visitor-centricity and the AccessApp crew and community are focused on understanding their minute needs and focus on supporting them in the best possible way.
 
 ### What does it cost to the place
 
@@ -26,8 +30,8 @@ only minimum involvement of the place
 
 * top management support
 * curator supervison
-* we take all the work from you which can be done externally /// we involve volunteers as much as possible
-** 
+* we take all the work from you which can be done externally
+** we find, involve and organise volunteers as much as possible
 
 ### Open Source and Free for All
 
