@@ -24,11 +24,11 @@ AccessApp differs from the commercial booking apps in three ways.
 
 ### Benefits for Places
 
-Places can manage the flow of visitors w/ a program, which vocuses on the needs of the Places and on the needs of the Visitors, even and especially on the needs of marginal groups of visitors such as of advanced age, fragile health or shielding due to their contact w/ vulnerable family or friends.
+**Manage the flow of visitors.** Places can manage the flow of visitors w/ a program, which vocuses on the needs of the Places and on the needs of the Visitors, even and especially on the needs of marginal groups of visitors such as of advanced age, fragile health or shielding due to their contact w/ vulnerable family or friends.
 
-Places are unburdened to a maximum extent by the open source and free for all operational model and by the pool of volunteers who help w/ the implementation of AccessApp.
+**No financial burden or vendor lock, but material and voluntary support.** Places are unburdened to a maximum extent by the open source and free for all operational model and by the pool of volunteers who help w/ the implementation of AccessApp.
 
-guide (search and discover) to find corona compliant places, which, combined w/ the management of hte safe flow of visitors becomes a great tool
+**Marketing** AccessApp helps visitors to search for and discover places, where the measures and the visitor count reverberates w/ their perception of safety.
 
 ### Benefits for Visitors
 
