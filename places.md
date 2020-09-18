@@ -32,6 +32,10 @@ AccessApp differs from the commercial booking apps in three ways.
 
 ### Benefits for Visitors
 
+**Focused on their needs.** Free. No ads. Focused on the needs of everybody, also on marginal groups.
+
+**Discovery of places which take Covid seriously.** 
+
 ## Implementation Process
 
 This chapter describes the current implementation process of AccessApp at a venue. It is important to understand, that AccessApp is driven by place-centricity and visitor-centricity and the AccessApp crew and community are focused on understanding their minute needs and focus on supporting them in the best possible way.
@@ -59,11 +63,35 @@ true focus on the needs of the places and visitors, especially of marginalised g
 
 we take all the work from you which can be done externally 
 
-### Cooperation w/ Existing IT Vendors
+### Visitor and Place Journeys
 
-The Existing IT Vendors are an integral part of the AccessApp ecosystem
+AccessApp supports all visitor journeys.
 
-## PlacesApp
+1. 100% AccessApp based (Places and Visitors)
+
+1a. Visitor arrives at the door and has no app.
+
+2. 50% AccessApp based (Places)
+
+3. 50% AccessApp based (analogue Visitor, Places is integrated)
+
+4. 0% AccessApp (analogue visitor, Places is integrated)
+
+#### Cooperation w/ Existing IT Vendors
+
+The Existing IT vendors are an integral part of the AccessApp ecosystem. AccessApp aims at supporting existing IT vendors, not competing w/ them or replacing them.
+
+## Apps
+
+The AccessApp system consists of two (plus one) apps and a Serverless (Jamstack) backend.
+
+AccessApp Visitor provides the Visitor experience.
+
+AccessApp Places allows venues to add and edit themselves.
+
+AccessApp Administrator enables venues that have added themselves (control) and disables venues that have violated the Terms and Conditions.
+
+### PlacesApp
 
 ![Splash screen](images/F0C205DF-43A2-4897-9A39-93D3DC813FF0.png)
 
