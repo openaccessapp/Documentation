@@ -2,13 +2,13 @@
 
 ## What is AccessApp?
 
-AccessApp is a technology backed social project providing Places (museums, art galleries, universities and schools, swimming pools, beaches, everywhere, where people gather together) w/ a free and open source way to manage visitors without spending their fragile budgets on that or getting into a vendor lock.
+AccessApp is a research-informed, not-for-profit booking and discovery platform to allow venues, businesses, attractions and spaces to safely provide uncrowded access to indoor and outdoor spaces thereby protecting the public's health whilst promoting public health information and encouraging the sharing of public health best practice.
 
-AccessApp was designed as a forward looking solution in times of Covid, but also goes beyond that.
+Designed as a forward looking, preventative solution in response to the COVID-19 pandemic our project will be led by public health needs and the needs of the wider economy and its functionality and health information will be updated continuously in alignment with the latest government health policy and best practice from industry bodies.
 
-AccessApp consists of AccessApp Places, where the Managers of the Places can add Places and Slots, which Slots the vistors can book using AccessApp Visitors.
+AccessApp is paired with AccessApp Places app which is used by the venues managers to add their 'Place' to the platform and specify their opening and visiting information, their COVID policies and additional saftey precautions in place. The AccessApp Places app also allows create and edit specific timeslots for thier visitors and allows the creation of slots with reduced and managed capacity specifically for those that are vulnerable and shielding as well as managed slots for previously crowded and unmanaged venues, places and spaces to help protect the wider public from COVID exposure.
 
-AccessApp comes w/ a full implementation model, described in this document.
+AccessApp is designed so that venues and venues can add themselves to the platform easily and adopt the system easily within their organisation. Together with this Installation document and accompaniying video there is also a guided walk-thru when you first install the AccessApp Places app which helps you through the process.   
 
 ### Where do we come from?
 
