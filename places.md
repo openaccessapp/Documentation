@@ -24,17 +24,33 @@ AccessApp differs from the commercial booking apps in three ways.
 
 ### Benefits for Places
 
-**Manage the flow of visitors.** Places can manage the flow of visitors w/ a program, which vocuses on the needs of the Places and on the needs of the Visitors, even and especially on the needs of marginal groups of visitors such as of advanced age, fragile health or shielding due to their contact w/ vulnerable family or friends.
+#### Manage the flow of visitors
 
-**No financial burden or vendor lock, but material and voluntary support.** Places are unburdened to a maximum extent by the open source and free for all operational model and by the pool of volunteers who help w/ the implementation of AccessApp.
+Places can manage the flow of visitors w/ a program, which vocuses on the needs of the Places and on the needs of the Visitors, even and especially on the needs of marginal groups of visitors such as of advanced age, fragile health or shielding due to their contact w/ vulnerable family or friends.
 
-**Marketing** AccessApp helps visitors to search for and discover places, where the measures and the visitor count reverberates w/ their perception of safety.
+#### No financial burden or vendor lock
+
+Material and voluntary support.
+
+Places are unburdened to a maximum extent by the open source and free for all operational model and by the pool of volunteers who help w/ the implementation of AccessApp.
+
+#### Marketing
+
+AccessApp helps visitors to search for and discover places, where the measures and the visitor count reverberates w/ their perception of safety.
 
 ### Benefits for Visitors
 
-**Focused on their needs.** Free. No ads. Focused on the needs of everybody, also on marginal groups.
+#### Focused on their needs
 
-**Discovery of places which take Covid seriously.** 
+- AccessApp is free
+- There are no ads
+- The focus is on the needs of the visitors, also on the needs of the marginal groups
+
+#### Discovery of Places which take Covid Seriously
+
+#### Queue Free Visiting
+
+#### In Advance or AdHoc Booking
 
 ## Implementation Process
 
