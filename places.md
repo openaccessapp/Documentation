@@ -112,20 +112,20 @@ The opening is on 1 October 2020.
 
 The challenge:
 
-— outdoor area
-— indoor area
+- outdoor area
+- indoor area
 
 Current possibility:
 
-— each area is advertised as a Place
-— Visitors book independently slots for each Place (in advance or ad hoc)
-— there are checkin/checkout points into/out of each Place (we need to complete the bardcode part)
+- each area is advertised as a Place 
+- Visitors book independently slots for each Place (in advance or ad hoc) 
+- there are checkin/checkout points into/out of each Place (we need to complete the bardcode part) 
 
 Unresolved questions:
 
-— how to handle the visitors w/o apps?
-  — one possibility is to have people to tap in/out button on the app
-    — this way human error as to the actual count can sneak in
-      — how critical would that be?
+- how to handle the visitors w/o apps? 
+  - one possibility is to have people to tap in/out button on the app 
+    - this way human error as to the actual count can sneak in 
+      - how critical would that be? 
 
 ### Implementation/Case Study #2 (Jewish Museum Frankfurt)
