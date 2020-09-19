@@ -65,11 +65,14 @@ we take all the work from you which can be done externally
 
 ### Visitor and Place Journeys
 
-AccessApp supports all visitor journeys.
+AccessApp supports all Visitor and Place journeys.
 
-1. 100% AccessApp based (Places and Visitors)
+#### 1. 100% AccessApp based (Places and Visitors)
 
-1a. Visitor arrives at the door and has no app.
+- Places use the app to advertise themselves and their slots and conditions.
+— Visitors use the app to book and enter.
+
+#### 1a Visitor arrives at the door and has no app.
 
 2. 50% AccessApp based (Places)
 
@@ -79,7 +82,11 @@ AccessApp supports all visitor journeys.
 
 #### Cooperation w/ Existing IT Vendors
 
-The Existing IT vendors are an integral part of the AccessApp ecosystem. AccessApp aims at supporting existing IT vendors, not competing w/ them or replacing them.
+The existing IT vendors are an integral part of the AccessApp ecosystem. AccessApp aims at supporting existing IT vendors, not competing w/ them or replacing them.
+
+AccessApp supports integration w/ booking/ticketing systems.
+
+AccessApp handles all the functionality these system cannot handle.
 
 ## Apps
 
@@ -97,12 +104,28 @@ AccessApp Administrator enables venues that have added themselves (control) and 
 
 add video how to add and manage your place and also screenshots
 
-## Case Study #1 /// Caricature Museum Frankfurt
+## Initial Implementations and related Case Studies
 
-Opening on 1 October
+### Implementation/Case Study #1 (Caricature Museum Frankfurt)
 
-outdoor area
+The opening is on 1 October 2020.
 
-indoor area
+The challenge:
 
-concept to service both possibilities
+— outdoor area
+— indoor area
+
+Current possibility:
+
+— each area is advertised as a Place
+— Visitors book independently slots for each Place (in advance or ad hoc)
+— there are checkin/checkout points into/out of each Place (we need to complete the bardcode part)
+
+Unresolved questions:
+
+— how to handle the visitors w/o apps?
+  — one possibility is to have people to tap in/out button on the app
+    — this way human error as to the actual count can sneak in
+      — how critical would that be?
+
+### Implementation/Case Study #2 (Jewish Museum Frankfurt)
