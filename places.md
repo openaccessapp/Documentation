@@ -30,17 +30,11 @@ AccessApp allows Places to manage the flow of visitors in previosly unmanaged, c
 
 #### Free and Open Source 
 
-AccessApp is open source and is free to use for both venues which means 
-
-No financial burden or vendor lock
-
-Material and voluntary support.
-
-Places are unburdened to a maximum extent by the open source and free for all operational model and by the pool of volunteers who help w/ the implementation of AccessApp.
+AccessApp is open source and is free to use for both venues which means no financial burden for venues adopting the platform and no issues with vendor lock. It also means  extensive, comprehensive material and voluntary support is avaiable to venues requiring assistense installing and adapting system.
 
 #### Marketing
 
-AccessApp helps visitors to search for and discover places, where the measures and the visitor count reverberates w/ their perception of safety.
+AccessApp helps visitors to search for and discover venues, spaces and attractions that have put in place measures to mitagate public exposure to COVID-19 by managing their visitor flow with timeslots and providing special timeslots with reduced capacity for those that are vulnerable and sheiding. Reaching out and supporting these 
 
 ### Benefits for Visitors
 
@@ -48,7 +42,7 @@ AccessApp helps visitors to search for and discover places, where the measures a
 
 - AccessApp is free
 - There are no ads
-- The focus is on the needs of the visitors, also on the needs of the marginal groups
+- The focus is on the needs of the visitors, also on the needs of the vulnerable and marginalised groups
 
 #### Discovery of Places which take Covid Seriously
 
