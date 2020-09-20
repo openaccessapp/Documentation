@@ -52,7 +52,9 @@ AccessApp helps visitors to search for and discover venues, spaces and attractio
 
 ## Implementation Process
 
-This chapter describes the current implementation process of AccessApp at a venue. It is important to understand, that AccessApp is driven by place-centricity and visitor-centricity and the AccessApp crew and community are focused on understanding their minute needs and focus on supporting them in the best possible way.
+This chapter describes the current implementation process of AccessApp at a venue. 
+
+It is important to understand, that AccessApp is driven by place-centricity and visitor-centricity and the AccessApp crew and community are focused on identifiying the needs of the venues and supporting the fast implentation of these adaptations so we can quicky build bespoke functionaility. This functionality can then be built into the system for other venues to use.
 
 ### What does it cost to the place
 
@@ -63,7 +65,7 @@ only minimum involvement of the place
 * top management support
 * curator supervison
 * we take all the work from you which can be done externally
-** we find, involve and organise volunteers as much as possible
+** we find, involve and organise volunteers
 
 ### Open Source and Free for All
 
@@ -75,7 +77,7 @@ true focus on the needs of the places and visitors, especially of marginalised g
 
 ### Integration into the Total Visitory Flow Manaement incl. Marketing, Promotion, planning, hygene concept, statistics, etc.
 
-we take all the work from you which can be done externally 
+All integrations will be managed externally by the AccessApp team and delivered by our development team pro bono. 
 
 ### Visitor and Place Journeys
 
@@ -104,13 +106,11 @@ AccessApp handles all the functionality these system cannot handle.
 
 ## Apps
 
-The AccessApp system consists of two (plus one) apps and a Serverless (Jamstack) backend.
+The AccessApp system consists of two apps 
 
 AccessApp Visitor provides the Visitor experience.
 
 AccessApp Places allows venues to add and edit themselves.
-
-AccessApp Administrator enables venues that have added themselves (control) and disables venues that have violated the Terms and Conditions.
 
 ### PlacesApp
 
