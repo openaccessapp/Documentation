@@ -43,7 +43,7 @@ The AccessApp is Open Source and is supported by a broad community of maintainer
 
 ## Security
 
-See [Security](Security.md).
+See [Security](security.md).
 
 # History and Credits
 
