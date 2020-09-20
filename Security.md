@@ -8,13 +8,27 @@ AccessApp is privacy preserving.
 
 AccessApp implements serveral measures to presere the privacy of the users.
 
-* AccessApp does not collect personally identifiable information such as name, address, phone number, etc.
-* AccessApp deletes all visits from the server as soon as they have expired.
+- AccessApp does not collect personally identifiable information such as name, address, phone number, etc.
+- AccessApp deletes all visits from the server as soon as the end time of the visit has passed.
 
-## AccessApp Visitor
+### Statistics
 
-## AccessApp Places
+A Place may keep limited information about visits for statistical purposes.
 
-## AccessApp Administration
+#### What is kept?
 
-## Server
+- a non-identifiable record of each visit including date and time
+
+#### What is not kept?
+
+- any information that can be traced back to the visitor such as app ID or device ID
+
+## Specific Possible Vectors of Attack and Security Measures
+
+### AccessApp Visitor
+
+### AccessApp Places
+
+### AccessApp Administration
+
+### Server
