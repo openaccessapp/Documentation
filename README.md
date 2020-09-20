@@ -21,7 +21,11 @@ AccessApp follows an open source, open governance and collaboratively funded non
 
 ## How does it work?
 
-The AccessApp consists of three Apps——AccessApp Visitor, AccessApp Place(s) and AccessApp Administrator.
+The AccessApp consists of three Apps——
+
+- AccessApp Visitor
+- AccessApp Place(s), and
+- AccessApp Administrator.
 
 There is additionally AccessApp Server.
 
@@ -49,6 +53,6 @@ See [Security](security.md).
 
 The idea of AccessApp was concieved by Alice Mesnard and Paul Seabright in their article https://voxeu.org/article/easing-lockdown-digital-applications-can-help.
 
-T. E. Shaw enabled the implementation by involving Aux Nederlands B.V. who provided the first paid designers and developers.
+Charlie Cox and T.E. Shaw enabled the implementation by involving Digytle (London) and Aux Nederlands B.V. (Amsterdam), who provided the first designers and developers.
 
 OHIOH and FH Kiel became the first Institutional Partners.
