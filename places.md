@@ -20,15 +20,19 @@ AccessApp differs from the commercial booking apps in three ways.
 
 * It is open source.
 * It is free for all (funded through crowd donations and public funding)
-* It focuses on the needs of Places and Visitors, even on the needs of marginal groups, focusing on the value creation, regardless of the commercial value.
+* It focuses on the needs of Places and visitors prioritising public health and the needs of marginal groups, focusing on the value creation, regardless of the commercial value.
 
 ### Benefits for Places
 
 #### Manage the flow of visitors
 
-Places can manage the flow of visitors w/ a program, which vocuses on the needs of the Places and on the needs of the Visitors, even and especially on the needs of marginal groups of visitors such as of advanced age, fragile health or shielding due to their contact w/ vulnerable family or friends.
+AccessApp allows Places to manage the flow of visitors in previosly unmanaged, crowded venues, spaces and attractions .  It focuses on the needs of these Places while prioritsing the health and peace of mind of their Visitors and the wider public. AccessApp has specific functionality to address the needs of marginal groups of visitors such as of the Clinically Extremely Vulnerable (CEV), the elderly and those with underlying health conditions or shielding due to continued contact vulnerable family or friends.
 
-#### No financial burden or vendor lock
+#### Free and Open Source 
+
+AccessApp is open source and is free to use for both venues which means 
+
+No financial burden or vendor lock
 
 Material and voluntary support.
 
