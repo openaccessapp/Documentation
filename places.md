@@ -8,11 +8,15 @@ Designed as a forward looking, preventative solution in response to the COVID-19
 
 AccessApp is paired with AccessApp Places app which is used by the venues managers to add their 'Place' to the platform and specify their opening and visiting information, their COVID policies and additional saftey precautions in place. The AccessApp Places app also allows create and edit specific timeslots for thier visitors and allows the creation of slots with reduced and managed capacity specifically for those that are vulnerable and shielding as well as managed slots for previously crowded and unmanaged venues, places and spaces to help protect the wider public from COVID exposure.
 
-AccessApp is designed so that venues and venues can add themselves to the platform easily and adopt the system easily within their organisation. Together with this Installation document and accompaniying video there is also a guided walk-thru when you first install the AccessApp Places app which helps you through the process.   
+AccessApp is designed so that venues and venues can add themselves to the platform easily and adopt the system easily within their organisation. Together with this Installation document and accompaniying video there is also a guided walk-thru when you first install the AccessApp Places app which helps you through the process.
+
+> Charlie, we have to say it is free for all and open source.
 
 ### Where do we come from?
 
-The AccessApp idea was born from an [article](https://voxeu.org/article/easing-lockdown-digital-applications-can-help) published on 1 May 2020 and written by Alice Mesnard and Paul Seabright. The idea was recognised by T.E. Shaw from the Linux Foundation Publish Health and a pilot implementation done w/ the help of Charlie Cox (Digytle) and a crew from Aux Nederland B.V.
+The AccessApp idea was born from an [article](https://voxeu.org/article/easing-lockdown-digital-applications-can-help) published on 1 May 2020 and written by Alice Mesnard and Paul Seabright. The idea was recognised by T.E. Shaw from the [Linux Foundation Publish Health](https://www.lfph.io) and a pilot implementation done w/ the help of Charlie Cox from Digytle and a crew from Aux Nederland B.V.
+
+> Charlie, we must link the wwws
 
 ### Wikipedia Operational Model (Open Source and Free For ALl)
 
