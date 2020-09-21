@@ -1,4 +1,4 @@
-# Places
+# Information and Implementation Guide for Places
 
 ## What is AccessApp?
 
