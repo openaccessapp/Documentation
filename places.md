@@ -30,15 +30,21 @@ AccessApp differs from the commercial booking apps in three ways.
 
 #### Manage the flow of visitors
 
-AccessApp allows Places to manage the flow of visitors in previosly unmanaged, crowded venues, spaces and attractions .  It focuses on the needs of these Places while prioritsing the health and peace of mind of their Visitors and the wider public. AccessApp has specific functionality to address the needs of marginal groups of visitors such as of the Clinically Extremely Vulnerable (CEV), the elderly and those with underlying health conditions or shielding due to continued contact vulnerable family or friends.
+AccessApp allows Places to manage the flow of visitors in previosly unmanaged, crowded venues, spaces and attractions. It focuses on the needs of these Places while prioritsing the health and peace of mind of their Visitors and the wider public. AccessApp has specific functionality to address the needs of marginal groups of visitors such as of the Clinically Extremely Vulnerable (CEV), the elderly and those with underlying health conditions or shielding due to continued contact vulnerable family or friends.
+
+> Charlie, AA has the goal to become Wikipedia of Access, while at the same time cooperate w/ existing IT vendors, allowing them to focus on added value elsewhere.
 
 #### Free and Open Source 
 
 AccessApp is open source and is free to use for both venues which means no financial burden for venues adopting the platform and no issues with vendor lock. It also means  extensive, comprehensive material and voluntary support is avaiable to venues requiring assistense installing and adapting system.
 
+> Charlie, AA has the goal to become Wikipedia of Access, while at the same time cooperate w/ existing IT vendors, allowing them to focus on added value elsewhere (we should repeat this everywhere, because it is important).
+
 #### Marketing
 
-AccessApp helps visitors to search for and discover venues, spaces and attractions that have put in place measures to mitagate public exposure to COVID-19 by managing their visitor flow with timeslots and providing special timeslots with reduced capacity for those that are vulnerable and sheiding. Reaching out and supporting these 
+AccessApp helps visitors to search for and discover venues, spaces and attractions that have put in place measures to mitagate public exposure to COVID-19 by managing their visitor flow with timeslots and providing special timeslots with reduced capacity for those that are vulnerable and sheiding. Reaching out and supporting these.
+
+> Charlie, this work in parallel w/ other methods of marketing and booking: AA will promote this plurality.
 
 ### Benefits for Visitors
 
@@ -50,9 +56,21 @@ AccessApp helps visitors to search for and discover venues, spaces and attractio
 
 #### Discovery of Places which take Covid Seriously
 
+AccessApp helps Visitors not only discover places and book safely, but also see what care the places take of their visitors.
+
+> Tripadvisor is quite ahead in this, we should see our added value.
+
 #### Queue Free Visiting
 
+AccessApp allows Visitors to come right at the time of their slot, instead of be surprised by a queue and having to wait.
+
+> Many AccessApp features are offered by commercial solutions: we must continuously remind that AccessApp is free and open source and focued on the needs of everybody, including marginal groups, where there commercial solution might be less interested or able to serve.
+
 #### In Advance or AdHoc Booking
+
+AccessApp allows in-advance-planning as well as adhoc-planning. In the first case one plans visits days or weeks in advance. In the second case one can plann a visit in-passing-by. This fits well into the senario where AccessApp isn't fully introduced to the Place and Visitors can download it at the entrance (in case the Place is currently full) and immediately book a visit for a later time on the same day, knowing they have guaranteed access.
+
+> We need to solve the issue of avoiding abuse: eg. booking a slot and not showing up, which ticket sale handles better.
 
 ## Implementation Process
 
