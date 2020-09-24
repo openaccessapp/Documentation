@@ -11,6 +11,7 @@ AccessApp is paired with AccessApp Places app which is used by the venues manage
 AccessApp is designed so that venues and venues can add themselves to the platform easily and adopt the system easily within their organisation. Together with this Installation document and accompaniying video there is also a guided walk-thru when you first install the AccessApp Places app which helps you through the process.
 
 > Charlie, we have to say it is free for all and open source.
+> move the About into README and here only places
 
 ### Where do we come from?
 
