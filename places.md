@@ -190,3 +190,16 @@ mapy.cz => they have an app where you can participate in recognising covid probl
 goout.cz
 
 ticketpro
+
+completely anonymous, no statistics gathered (no need), no data capitalism
+
+trafic light system
+
+Next steps
+
+- think of customer journey
+-- think of target group: Use Case. Somebody together w/ people, moving around.  Teacher w/ their class going somewhere. University excursions. The unknown prague organisation, hospitals, seniors residences
+- see what adaptations will be needed in the app
+- look for somebody to help w/ grants in CZ
+- check crowdfunding / donations 
+- Guenther Can be ambassador for Prague, CZ
