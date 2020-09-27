@@ -166,3 +166,27 @@ Unresolved questions:
       - how critical would that be? 
 
 ### Implementation/Case Study #2 (Jewish Museum Frankfurt)
+
+### Implementation/Case Study #3 (Guenther Krumpak, Prague)
+
+spontatneous tours
+
+expatcommunity
+
+facebook events sends to booking places, but you have no idea of # of people, size of place, restaurants book table, guenther knows institutions, jewish museum in prague could be interested ! museum, cemitery and three sinagogues => perfect use case for spontaneous booking, logic for linked places that you cannot book two at the same time (justice) => tell Rosa for the ; can help w/ institutions too!; the national museum has 5 different buildins in prague, the national gallery has 5 different buildings also; 
+
+guenther as representative
+
+Deutch Tschechichesr Zukunftsfonds http://www.fondbudoucnosti.cz/de/ we need a person who does the writing, guenther can revive his IT connections, Expat Centr in Brno, IT faculty in Masaric univserity in Brno
+
+facebook can connect to organiser=> to explore the API
+
+like the facebook "check in at place" => we can link to that too :) 
+
+we can incorporate a paying function
+
+mapy.cz => they have an app where you can participate in recognising covid problematic places, much better than google maps in prague, better than google street view
+
+goout.cz
+
+ticketpro
