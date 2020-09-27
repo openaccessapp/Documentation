@@ -203,3 +203,4 @@ Next steps
 - look for somebody to help w/ grants in CZ
 - check crowdfunding / donations 
 - Guenther Can be ambassador for Prague, CZ
+- help ArcoAcademy w/ logo via Eli
