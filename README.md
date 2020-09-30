@@ -1,6 +1,11 @@
 # AccessApp
 
-## What is AccessApp?
+## Table of Contents
+
+- [What is AccessApp?](#what-is-accessapp)
+  - [Where do we come from?](#where-do-we-come-from)
+
+## What is AccessApp
 
 AccessApp is a research-informed, not-for-profit booking and discovery platform to allow venues, businesses, attractions and spaces to safely provide uncrowded access to indoor and outdoor spaces thereby protecting the public's health whilst promoting public health information and encouraging the sharing of public health best practice.
 
@@ -15,7 +20,7 @@ AccessApp is designed so that venues and venues can add themselves to the platfo
 > emphasis that it is free for all and open source.
 > move the About into README and here only places
 
-### Where do we come from?
+### Where do we come from
 
 The AccessApp idea was born from an [article](https://voxeu.org/article/easing-lockdown-digital-applications-can-help) published on 1 May 2020 and written by Alice Mesnard and Paul Seabright. The idea was recognised by T.E. Shaw from the [Linux Foundation Publish Health](https://www.lfph.io) and a pilot implementation done w/ the help of Charlie Cox from Digytle in London and a crew from Aux Nederland B.V. in the Netherlands.
 
