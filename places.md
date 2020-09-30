@@ -1,5 +1,12 @@
 # Information and Implementation Guide for Places
 
+There are different types of places
+
+- Places requiring tickets
+- Places not requiring tickets
+
+We describe the journeys of each of these.
+
 ## What is AccessApp?
 
 AccessApp is a research-informed, not-for-profit booking and discovery platform to allow venues, businesses, attractions and spaces to safely provide uncrowded access to indoor and outdoor spaces thereby protecting the public's health whilst promoting public health information and encouraging the sharing of public health best practice.
