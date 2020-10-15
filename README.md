@@ -4,6 +4,7 @@
 
 - [What is AccessApp?](#what-is-accessapp)
   - [Where do we come from?](#where-do-we-come-from)
+- [Implementation Guide for Places](places.md)
 
 ## What is AccessApp
 
