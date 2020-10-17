@@ -4,6 +4,18 @@
 
 AccessApp is privacy preserving.
 
+## Technology Stack
+
+Swift
+
+Kotlin
+
+Netlify
+
+Netlify Functions / AWS Lambda Functions
+
+FaunaDB
+
 ## General
 
 AccessApp implements serveral measures to presere the privacy of the users.
