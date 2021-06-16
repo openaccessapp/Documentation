@@ -19,7 +19,7 @@ When completing a DO, update the Documentation accordingly.
 
 #### Images
 
-* Images do not show (eg. here http://localhost:8080/en/documentation/20-audience/1-visitors) è2`
+* Images do not show (eg. here http://localhost:8080/en/documentation/20-audience/1-visitors) `e2`
 
 ### Logo
 
